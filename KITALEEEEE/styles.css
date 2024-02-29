@@ -1,0 +1,75 @@
+/* styles.css */
+/* Style for navigation links */
+nav a {
+    color: #800000; /* Set navigation link color to maroon */
+    text-decoration: none;
+}
+body {
+    font-family: times new roman
+    , sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-size: cover; /* Cover the entire viewport */
+    background-position: center; /* Center the background image */
+    color: #333; /* Set default text color */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Style for the title */
+h1 {
+    font-family: Algerian, sans-serif; /* Set font to Algerian */
+    font-size: 25px; /* Set font size to 25px */
+    color: #3498db; /* Set title color to blue */
+}
+
+/* Style for subheadings */
+h2 {
+    color: #800000; /* Set subheading color to maroon */
+/* Set white background for paragraphs */
+}
+p {
+    background-color: white;
+    color: #3498db; /* Set paragraph text color to blue */
+    padding: 10px; /* Add some padding to paragraphs */
+}
+/* Style for day names */
+h3 strong {
+    color: #800000; /* Set color to maroon */
+}
